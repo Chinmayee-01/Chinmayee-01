@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=Red&width=650&height=100&lines=WElCOME+%E2%9D%A4%EF%B8%8F;Hi%2C+I+am+Chinmayee Charuprava Panda">
+
+# Hi, I'm Chinmayee Charuprava Panda! 👋
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
