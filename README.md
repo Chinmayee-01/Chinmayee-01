@@ -4,13 +4,13 @@
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
- Web Developer
+ Data Analyst
 
 **👯 I’m looking to collaborate on :**<br>
-Web projects
+Data analysis project
 
 **💬 Ask me about :**<br>
-JavaScript,java,Node.js and any software development question.
+Python, SQL, Excel, PowerBI, and any software development question.
 
 **📫 How to reach me :**<br>
 charuchinmayee2004@gmail.com
